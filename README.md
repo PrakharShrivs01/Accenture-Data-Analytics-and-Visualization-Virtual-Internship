@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 ## Certificate:
-[Certificate](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics_completion_certificate.pdf)
+[Certificate](https://github.com/PrakharShrivs01/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America%20completion_certificate.pdf)
 
 ## Task - 1
 ### Project Understanding:
@@ -9,7 +9,7 @@
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
+ - About Client : [Social Buzz](https://github.com/PrakharShrivs01/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -26,7 +26,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 ## Task - 2
  - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+ - So, the first step is to use this [data model](https://github.com/PrakharShrivs01/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
  >- Content ID
